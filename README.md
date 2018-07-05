@@ -18,10 +18,11 @@ g++ -std=c++11 -o chunker main.cc
 ```
 
 Output:
-```
-root
-  |- chunk_00.csv
-  ...
-  |- chunk_49.csv
-```
 
+```
+  .
+  ├── chunk_000000.csv
+  ├── chunk_000001.csv
+  ├── ...
+  └── chunk_000049.csv
+```
