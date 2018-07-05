@@ -14,7 +14,7 @@ g++ -std=c++11 -o chunker main.cc
 #### Usage
 
 ```
-./chunker <csv_file> <num_chunks>
+./chunker <csv_file> <rows_per_chunk>
 ```
 
 Output:
